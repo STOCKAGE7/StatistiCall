@@ -31,3 +31,30 @@ Install the required packages using pip:
 
 ```bash
 pip install pandas customtkinter tkinterdnd2 Pillow
+
+## How to Run
+
+1. Clone the repository or download the files.
+2. Install the required packages as mentioned above.
+3. Run the `StatistiCall.py` file.
+4. Drag and drop an Excel file with appointment data onto the application window.
+5. The application will automatically generate a structured report based on the Excel data.
+
+## Excel File Format
+
+Ensure your Excel file follows this structure:
+
+- **Sheet 1 (Default sheet)**: Contains the `Docteur` (doctor) column with the appointment data.
+- **Sheet 2 (Déplacements)**: Contains the data related to reschedules or moves.
+- **Sheet 3 (Annulations)**: Contains the cancellation data.
+- **Sheet 4 (Transfert)**: Contains data on transfers.
+- **Sheet 5 (Autre détail)**: Any other details you want to include in the report.
+
+## Objective
+
+This project was developed to enhance efficiency and accuracy at RB Call Center by automating a repetitive task, reducing human errors, and optimizing workflow.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
