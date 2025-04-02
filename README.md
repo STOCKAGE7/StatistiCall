@@ -31,6 +31,7 @@ Install the required packages using pip:
 
 ```bash
 pip install pandas customtkinter tkinterdnd2 Pillow
+```
 
 ## How to Run
 
@@ -56,5 +57,5 @@ This project was developed to enhance efficiency and accuracy at RB Call Center 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
