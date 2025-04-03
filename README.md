@@ -1,7 +1,4 @@
 # StatistiCall - Automated Reporting Tool for RB Call Center
-![Alt Text](Image.jpg)
-
-
 
 StatistiCall is a Python-based application designed to automate the process of generating daily appointment reports for RB Call Center. This tool extracts data from Excel files, processes key statistics, and generates a structured email report, saving time and reducing errors in manual calculations.
 
